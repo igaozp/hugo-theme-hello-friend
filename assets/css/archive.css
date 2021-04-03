@@ -62,6 +62,7 @@
 
     &-title {
       margin: 5px 0;
+      font-weight: normal;
 
       a {
         display: block;
